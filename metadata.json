@@ -1,0 +1,5 @@
+{
+  "name": "SmartCoop Industrial Monitor",
+  "description": "A high-performance industrial monitoring dashboard for smart agricultural systems, featuring real-time sensor data, AI diagnostics, and system logs.",
+  "requestFramePermissions": []
+}
